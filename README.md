@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BhaveshKumarSharma&color=blueviolet" alt="BhaveshKumarSharma" /> </p>
 
-- 🌱 I’m currently working with **Next.js (14/13), Gen AI, Langchain, Azure, Node.js**
+- 🌱 I’m currently working with **Next.js (14/13), Gen AI, Langchain, Azure, Node.js, Tailwind CSS, Shadcn UI, Storybook, Styled Components**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhaveshKumarSharma](https://github.com/BhaveshKumarSharma)
 
